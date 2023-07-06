@@ -1,15 +1,15 @@
 {
-  "name": "crash-course",
+  "name": "node project",
   "version": "1.0.0",
-  "description": "a node crash course",
-  "main": "server.js",
+  "description": "a node project",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamshaunjp/node-crash-course.git"
+    "url": "https://github.com/chakravartyharish"
   },
   "author": "Harish Chakravarty",
   "license": "ISC",
